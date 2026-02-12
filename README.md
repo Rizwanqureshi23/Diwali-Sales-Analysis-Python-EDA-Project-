@@ -68,6 +68,10 @@ Improved data cleaning and visualization skills
 
 
 
+<img width="1219" height="815" alt="python1" src="https://github.com/user-attachments/assets/13f778cc-73b7-4499-bb1e-a926ca827f48" />
+
+
+
 
 
 
