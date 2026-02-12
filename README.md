@@ -63,8 +63,12 @@ Business Insight Extraction
 
 # Learning Outcomes
 
-Practical experience with real-world data analysis
-Improved data cleaning and visualization skills
+* Practical experience with real-world data analysis
+* Improved data cleaning and visualization skills
+* Better understanding of customer segmentation
+* Enhanced ability to convert data into business insights
+
+
 
 
 
