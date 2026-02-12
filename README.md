@@ -68,21 +68,10 @@ Business Insight Extraction
 * Better understanding of customer segmentation
 * Enhanced ability to convert data into business insights
 
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
 <img width="1247" height="920" alt="python" src="https://github.com/user-attachments/assets/ef1a2ec8-a245-47a5-89f3-965f0da16008" />
 
 
-
-
-
-
-
-
-
-
-Better understanding of customer segmentation
-
-Enhanced ability to convert data into business insights
