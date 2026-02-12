@@ -61,7 +61,7 @@ Exploratory Data Analysis (EDA)
 Data Visualization
 Business Insight Extraction
 
-🚀 Learning Outcomes
+# Learning Outcomes
 
 Practical experience with real-world data analysis
 Improved data cleaning and visualization skills
